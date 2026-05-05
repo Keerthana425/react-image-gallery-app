@@ -1,0 +1,14 @@
+/* Write your code here. */
+.ThumbnailImage {
+  height: 50px;
+  width: 50px;
+  border-radius: 10px;
+  margin: 0px 10px 10px 0px;
+}
+.active-tab {
+  opacity: 0.5;
+}
+.buttonImage {
+  border-style: none;
+  background-color: transparent;
+}

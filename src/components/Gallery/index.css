@@ -1,0 +1,35 @@
+/* Write your code here. */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+.imageContainer {
+  border-radius: 20px;
+  padding-left: 20px;
+}
+.imageBig {
+  height: 60vh;
+  width: 60vw;
+}
+
+.heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #1e293b;
+  padding-left: 20px;
+}
+.bywhome {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: #64748b;
+  padding-left: 20px;
+}
+.thumbnailList {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
