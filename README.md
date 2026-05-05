@@ -6,7 +6,7 @@ A responsive React application that showcases a collection of nature images with
 
 <br/>
 <div style="text-align: center;">
-<img src="https://assets.ccbp.in/frontend/content/react-js/gallery-output.gif" alt="gallery-output" style="max-width:50%;max-height:50%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+<img src="https://assets.ccbp.in/frontend/content/react-js/gallery-output.gif" alt="gallery-output" style="max-width:30%;max-height:30%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
